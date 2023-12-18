@@ -1,5 +1,5 @@
 <!DOCTYPE html>
 
 <html>
-  <title>Welcome To My Profile</title>
+  <h1>Welcome To My Profile</h1>
 </html>
